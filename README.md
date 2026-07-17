@@ -1,4 +1,3 @@
-# Zepto_sales_Analysis
 # 🛒 Zepto E-Commerce & Inventory Optimization Analysis
 
 An end-to-end SQL-based business intelligence project analyzing over 3,000 grocery SKUs from a quick-commerce dataset. This project focuses on data cleaning, schema optimization, and extracting actionable warehouse logistics and marketing insights.
